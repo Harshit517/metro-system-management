@@ -5,9 +5,6 @@ Metro System Console Application
 - Sandesh Tiwari S
 - Krishna Tej
 - Harshit Shukla
-- Sri Hari N U
-- Ayesha Rehman
-- Atharva Deshmukh
 
 ## PROBLEM DESCRIPTION
 
